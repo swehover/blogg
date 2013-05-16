@@ -64,8 +64,5 @@
                 <input type="submit" value="Add Post">
             </div>
         </form>
-        <?php
-        // put your code here
-        ?>
     </body>
 </html>
